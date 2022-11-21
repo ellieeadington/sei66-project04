@@ -32,7 +32,7 @@
 >- Git + Github
 
 ## Agora
-
+<img src="Agora-Backend\public\image\animation.gif"/>
 >This was my final project for the Software Engineering Immersive course; a full-stack MERN Marketplace application built with a team of 4. Agora is an app where you can buy and sell anything, integrated with Stripe checkout.
 
 Deployed version: https://sei66project4agora.herokuapp.com/
@@ -67,14 +67,14 @@ Deployed version: https://sei66project4agora.herokuapp.com/
 ### Wireframes
 
 >Claudia, who was responsible for the front-end design of the website put together the basic wireframes of the application in Figma, as seen below.
-
+<div style="display: inline-flex">
 <img src="Agora-Backend\public\image\home.PNG" height="200"/>
 <img src="Agora-Backend\public\image\home.PNG" height="200"/>
 <img src="Agora-Backend\public\image\payment.PNG" height="200"/>
 <img src="Agora-Backend\public\image\signin.PNG" height="200"/>
 <img src="Agora-Backend\public\image\single product.PNG" height="200"/>
 <img src="Agora-Backend\public\image\user.PNG" height="200"/>
-
+</div>
 ### Trello
 
 >Now we had completed our initial planning, we populated our Trello board with general, back-end and front-end to-do cards and used this going forward to keep track of the status of our project.
