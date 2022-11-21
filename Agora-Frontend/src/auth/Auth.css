@@ -1,0 +1,68 @@
+.sign-title {
+  font-size: 40px !important;
+  text-align: center;
+  font-weight: 700 !important;
+}
+.div-for-sign {
+  padding: 120px 10px;
+}
+.sign {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.signin-left {
+  padding: 80px 80px !important;
+}
+.signin-right {
+  background-color: rgb(2, 2, 2);
+  padding: 120px 80px !important;
+}
+input {
+  border: none !important;
+  background-color: rgb(238, 238, 238) !important;
+  margin-bottom: 20px !important;
+  font-size: 20px !important;
+}
+.sign-button {
+  background-color: black !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 10px 40px !important;
+  font-size: 20px !important;
+  color: white;
+}
+.signup-signin-title {
+  color: white;
+  font-weight: 600 !important;
+  text-align: center;
+}
+.sign-up-white {
+  color: white;
+  text-align: center;
+}
+.signin-register {
+  background-color: white;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 10px 40px !important;
+  font-size: 20px !important;
+  text-align: center !important;
+}
+.button-div {
+  display: flex;
+  justify-content: center !important;
+}
+input[type="radio"] {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+  transform: scale(1.5);
+  margin-left: 10px;
+}
+.sign-up-text {
+  text-align: center;
+}
+.div-spaced {
+  margin-bottom: 100px;
+}
+.signupForm {
+  margin-top: 200px;
+}

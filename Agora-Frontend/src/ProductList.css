@@ -1,0 +1,15 @@
+.product-card-index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product-card {
+    margin-bottom: 30px;
+}
+
+.card-img {
+    height: 300px;
+}
+
+
