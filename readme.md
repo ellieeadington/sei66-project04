@@ -33,6 +33,7 @@
 
 ## Agora
 <img src="Agora-Backend\public\image\Animation.gif"/>
+
 >This was my final project for the Software Engineering Immersive course; a full-stack MERN Marketplace application built with a team of 4. Agora is an app where you can buy and sell anything, integrated with Stripe checkout.
 
 Deployed version: https://sei66project4agora.herokuapp.com/
